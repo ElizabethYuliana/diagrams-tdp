@@ -1,0 +1,123 @@
+<mxfile host="app.diagrams.net" modified="2023-07-05T03:09:47.205Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="m3Gw76LUu9eeLffNXaR1" version="21.5.0" type="dropbox" pages="2">
+  <diagram name="Página-1" id="hh73oEUtdDFiF5fYRAXU">
+    <mxGraphModel dx="1571" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QYUP7OOuzRU_-Xc1rxSe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#767474;" parent="1" source="QYUP7OOuzRU_-Xc1rxSe-1" target="QYUP7OOuzRU_-Xc1rxSe-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QYUP7OOuzRU_-Xc1rxSe-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;queue-query-sales&lt;/b&gt;&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;rotation=90;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="160" y="411.8" width="84.07" height="127.32" as="geometry" />
+        </mxCell>
+        <mxCell id="QYUP7OOuzRU_-Xc1rxSe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#999999;" parent="1" source="QYUP7OOuzRU_-Xc1rxSe-3" target="QYUP7OOuzRU_-Xc1rxSe-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QYUP7OOuzRU_-Xc1rxSe-3" value="campaign-integration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="320" y="435.46" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QYUP7OOuzRU_-Xc1rxSe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="QYUP7OOuzRU_-Xc1rxSe-5" target="QYUP7OOuzRU_-Xc1rxSe-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QYUP7OOuzRU_-Xc1rxSe-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;streaming-querysales-campaign&lt;/b&gt;&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;rotation=90;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="571.2" y="410" width="84.07" height="130.91" as="geometry" />
+        </mxCell>
+        <mxCell id="QYUP7OOuzRU_-Xc1rxSe-8" value="query-sales-stream" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="737" y="435.45000000000005" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QYUP7OOuzRU_-Xc1rxSe-13" value="{&lt;span style=&quot;font-family: Calibri, Arial, Helvetica, sans-serif; font-size: 17px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;/span&gt;&lt;blockquote style=&quot;font-size: 17px; background-color: rgb(255, 255, 255); margin-top: 0px; margin-bottom: 0px;&quot; data-ogsc=&quot;&quot;&gt;&lt;div style=&quot;font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 17px; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; border: 0px; margin: 0px; padding: 0px; vertical-align: baseline; color: inherit;&quot; data-ogsc=&quot;&quot; class=&quot;x_x_x_ContentPasted0&quot;&gt;&lt;span style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 17px; line-height: inherit; font-family: Calibri, sans-serif, serif, EmojiFont; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: rgb(23, 78, 134) !important;&quot; data-ogsc=&quot;rgb(23, 78, 134)&quot;&gt;&quot;id&quot;: &quot;AMM-139047537172780036&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 17px; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; border: 0px; margin: 0px; padding: 0px; vertical-align: baseline; color: inherit;&quot; data-ogsc=&quot;&quot; class=&quot;x_x_x_ContentPasted0&quot;&gt;&lt;span style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 17px; line-height: inherit; font-family: Calibri, sans-serif, serif, EmojiFont; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: rgb(23, 78, 134) !important;&quot; data-ogsc=&quot;rgb(23, 78, 134)&quot;&gt;&quot;transactionType&quot;: &quot;CAPL&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 17px; line-height: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; border: 0px; margin: 0px; padding: 0px; vertical-align: baseline;&quot; data-ogsc=&quot;&quot; class=&quot;x_x_x_ContentPasted0&quot;&gt;&lt;font face=&quot;Calibri, sans-serif, serif, EmojiFont&quot; color=&quot;#174e86&quot; style=&quot;font-size: 17px;&quot;&gt;...&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 17px; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; border: 0px; margin: 0px; padding: 0px; vertical-align: baseline; color: inherit;&quot; data-ogsc=&quot;&quot; class=&quot;x_x_x_ContentPasted0&quot;&gt;&lt;span style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 17px; line-height: inherit; font-family: Calibri, sans-serif, serif, EmojiFont; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: rgb(23, 78, 134) !important;&quot; data-ogsc=&quot;rgb(23, 78, 134)&quot;&gt;&quot;orderId&quot;: null,&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;span style=&quot;border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-stretch: inherit; font-size: 17px; line-height: inherit; font-family: Calibri, sans-serif, serif, EmojiFont; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline; background-color: rgb(255, 255, 255); color: rgb(23, 78, 134) !important;&quot; data-ogsc=&quot;rgb(23, 78, 134)&quot;&gt;}&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=17;spacingLeft=10;spacingBottom=10;spacingRight=3;spacingTop=5;" parent="1" vertex="1">
+          <mxGeometry y="550" width="340" height="160.88" as="geometry" />
+        </mxCell>
+        <mxCell id="QYUP7OOuzRU_-Xc1rxSe-14" value="{&lt;span style=&quot;font-family: Calibri, Arial, Helvetica, sans-serif; font-size: 17px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;/span&gt;&lt;blockquote style=&quot;font-size: 17px; background-color: rgb(255, 255, 255); margin-top: 0px; margin-bottom: 0px;&quot; data-ogsc=&quot;&quot;&gt;&lt;div style=&quot;font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 17px; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; border: 0px; margin: 0px; padding: 0px; vertical-align: baseline; color: inherit;&quot; data-ogsc=&quot;&quot; class=&quot;x_x_x_ContentPasted0&quot;&gt;&lt;span style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 17px; line-height: inherit; font-family: Calibri, sans-serif, serif, EmojiFont; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: rgb(23, 78, 134) !important;&quot; data-ogsc=&quot;rgb(23, 78, 134)&quot;&gt;&quot;id&quot;: &quot;FE-1021723312&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 17px; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; border: 0px; margin: 0px; padding: 0px; vertical-align: baseline; color: inherit;&quot; data-ogsc=&quot;&quot; class=&quot;x_x_x_ContentPasted0&quot;&gt;&lt;span style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 17px; line-height: inherit; font-family: Calibri, sans-serif, serif, EmojiFont; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: rgb(23, 78, 134) !important;&quot; data-ogsc=&quot;rgb(23, 78, 134)&quot;&gt;&quot;transactionType&quot;: &quot;ALTA/PORTA/..&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 17px; line-height: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; border: 0px; margin: 0px; padding: 0px; vertical-align: baseline;&quot; data-ogsc=&quot;&quot; class=&quot;x_x_x_ContentPasted0&quot;&gt;&lt;font face=&quot;Calibri, sans-serif, serif, EmojiFont&quot; color=&quot;#174e86&quot; style=&quot;font-size: 17px;&quot;&gt;...&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 17px; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; border: 0px; margin: 0px; padding: 0px; vertical-align: baseline; color: inherit;&quot; data-ogsc=&quot;&quot; class=&quot;x_x_x_ContentPasted0&quot;&gt;&lt;span style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 17px; line-height: inherit; font-family: Calibri, sans-serif, serif, EmojiFont; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: rgb(23, 78, 134) !important;&quot; data-ogsc=&quot;rgb(23, 78, 134)&quot;&gt;&quot;orderId&quot;: null,&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;span style=&quot;border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-stretch: inherit; font-size: 17px; line-height: inherit; font-family: Calibri, sans-serif, serif, EmojiFont; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline; background-color: rgb(255, 255, 255); color: rgb(23, 78, 134) !important;&quot; data-ogsc=&quot;rgb(23, 78, 134)&quot;&gt;}&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=17;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry y="730" width="340" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QYUP7OOuzRU_-Xc1rxSe-16" value="1ERA VEZ CON INFO - PENDIENTE" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="580" width="170" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="QYUP7OOuzRU_-Xc1rxSe-17" value="2DA VEZ SIN INFO - ACEPTADO" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="640" width="170" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6fZTTiG_4Tdg24_uCVmX" name="Arquitectura">
+    <mxGraphModel dx="962" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-1" value="&lt;p style=&quot;margin-left:36.0000pt;text-indent:-18.0000pt;mso-list:l0 level1 lfo1;&quot; class=&quot;15&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBorderColor=none;sketch=0;fillStyle=auto;strokeColor=#000000;strokeWidth=1;fontSize=13;fontColor=#7ece78;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="600" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FdpLeEWcvMdSFO8lwJ7v-3" target="FdpLeEWcvMdSFO8lwJ7v-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-3" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=11;strokeWidth=1;strokeColor=#B5739D;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="392.36" y="280" width="267.64" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-4" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=11;fillColor=default;strokeColor=#59759E;strokeWidth=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="392.36" y="498" width="267.64" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-7" value="Servidores&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;div&gt;10.4.88.109,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;10.4.88.119,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;10.4.88.138,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;10.4.88.144&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=8;strokeColor=#004C99;align=left;dashed=1;strokeWidth=1;dashPattern=1 4;fontColor=#004C99;" vertex="1" parent="1">
+          <mxGeometry x="554.4300000000001" y="597" width="104.57" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-9" value="Servidores&lt;br style=&quot;font-size: 8px;&quot;&gt;10.4.88.61:8080&lt;br&gt;10.4.88.147:8080&lt;div data-en-clipboard=&quot;true&quot; data-pm-slice=&quot;1 1 []&quot; style=&quot;font-size: 8px;&quot;&gt;10.4.88.148:8080&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=8;align=left;dashed=1;strokeWidth=1;dashPattern=1 4;fontColor=#997E8F;strokeColor=#B5739D;" vertex="1" parent="1">
+          <mxGeometry x="574.1999999999999" y="417" width="84.8" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-10" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=11;strokeWidth=1;strokeColor=#B5739D;shadow=1;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="691.04" y="280" width="217" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-13" value="query-sales-queue&lt;br&gt;query-sales-streaming&lt;br&gt;query-sales-tracking" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=9;strokeColor=#000000;fillColor=default;align=center;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="425.36" y="331" width="187.64" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-14" value="Rutas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="424.93000000000006" y="311" width="187.64" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-15" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#990099;strokeWidth=1;fontSize=12;fontColor=#7ece78;" edge="1" parent="1" source="FdpLeEWcvMdSFO8lwJ7v-17" target="FdpLeEWcvMdSFO8lwJ7v-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=67.91666666666657;entryPerimeter=0;strokeColor=#999999;" edge="1" parent="1" source="FdpLeEWcvMdSFO8lwJ7v-17" target="FdpLeEWcvMdSFO8lwJ7v-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-17" value="campaign-integration" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=12;fontStyle=1;fillStyle=auto;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=1;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="425.36" y="372" width="192.5" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-18" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=10;strokeColor=#999999;strokeWidth=1;shadow=0;rounded=1;" edge="1" parent="1" source="FdpLeEWcvMdSFO8lwJ7v-19" target="FdpLeEWcvMdSFO8lwJ7v-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-19" value="queue-&lt;br&gt;query-sales" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.166666666666629;labelBorderColor=none;fontSize=11;fillColor=#dae8fc;direction=south;strokeColor=#6c8ebf;strokeWidth=1;fontStyle=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="532" width="98" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-21" value="&lt;div data-en-clipboard=&quot;true&quot; data-pm-slice=&quot;1 1 []&quot;&gt;streaming-querysales-streaming&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7.833333333333144;labelBorderColor=none;fontSize=11;fillColor=#dae8fc;direction=south;strokeColor=#6c8ebf;strokeWidth=1;fontStyle=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="533" width="98" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-22" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#990099;strokeWidth=1;fontSize=12;fontColor=#7ece78;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="691.3800000000001" y="378" as="sourcePoint" />
+            <mxPoint x="691.8700000000001" y="378" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-23" value="CAMEL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="392.3600000000001" y="280.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-26" value="KAFKA" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="392.3600000000001" y="498" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-30" style="edgeStyle=elbowEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;strokeColor=#000000;strokeWidth=1;fontSize=13;fontColor=#7ece78;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="564" as="sourcePoint" />
+            <mxPoint x="910" y="564" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-32" value="SALES_EVENTS" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=10;strokeWidth=1;strokeColor=#b85450;shadow=1;fontStyle=0;align=center;fillColor=#FFF1ED;" vertex="1" parent="1">
+          <mxGeometry x="717.77" y="335.25" width="163.54" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-33" value="ORACLE - SCHEMA: CAMPSYS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="691.0400000000001" y="280.5" width="204.57" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FdpLeEWcvMdSFO8lwJ7v-46" value="racrtd.gp.inet" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=8;strokeColor=#B5739D;align=left;dashed=1;strokeWidth=1;dashPattern=1 4;fontColor=#FF8E8A;" vertex="1" parent="1">
+          <mxGeometry x="853" y="440" width="55.04" height="18" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

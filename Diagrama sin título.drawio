@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2023-09-01T16:14:21.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="o2JsfLFTeVpiDw3CrcbW" version="21.7.1" type="dropbox">
+  <diagram name="Página-1" id="8yR-v5OABg9TlAHb7U4f">
+    <mxGraphModel dx="1166" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IDwnKkg_EI-2i7jS96L5-1" value="Dejar el archivo en el servidor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IDwnKkg_EI-2i7jS96L5-2" value="Vaciar/Truncar Tablar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="610" y="240" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IDwnKkg_EI-2i7jS96L5-3" value="Validar si hay archivos en el servidor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="410" y="240" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IDwnKkg_EI-2i7jS96L5-4" value="Vaciar Tablar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="810" y="240" width="150" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
